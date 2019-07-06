@@ -4,5 +4,6 @@ learning deep learning w/ javascript library [brain.js] (https://github.com/Brai
 # init
 install dependencies
 
+``` bash
 $ npm install
-
+```
