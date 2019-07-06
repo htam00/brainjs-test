@@ -1,0 +1,14 @@
+[
+ {
+   "text": "my unit test faild",
+   "category": "software"
+ },
+ {
+   "text": "need of 20GB of the hard-drive",
+   "category": "hardware"
+ },
+ {
+   "text": "triget the program, but it was buggy",
+   "category": "software"
+ }
+]
